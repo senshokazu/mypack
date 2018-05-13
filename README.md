@@ -1,5 +1,4 @@
-Name senshokazu
-====
+
 
 Overview
 ・string_dup.py  -The script duplicates strings.
