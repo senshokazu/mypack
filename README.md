@@ -12,8 +12,7 @@
   function:
   
   opeartion_num -The function duplicates strings with increasing(decreasing) numbers in the text.
-  
-                 And the func has no args.
+  And the func has no args.
                  
   execution:
   
